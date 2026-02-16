@@ -1,0 +1,1 @@
+One thing that was interesting was "throws Exception" which I had no clue existed and didn't know what it did until it was explained to me. I also learned how to get information from another file and use it in code to do addition and subtraction of things. You can reuse the same integer variable for all loops.
