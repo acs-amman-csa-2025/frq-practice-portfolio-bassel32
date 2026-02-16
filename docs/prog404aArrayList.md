@@ -1,0 +1,1 @@
+Recreate problem 404a / Problem 3 but use arraylists instead of arrays.
